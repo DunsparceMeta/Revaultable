@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "A datapack that allows players to use as many trial keys as they want on trial vaults. Just hold the appropriate key while looking at a vault to reset it so you can keep farming!",
+    "min_format": [
+      107,
+      1
+    ],
+    "max_format": 107
+  }
+}
